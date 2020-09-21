@@ -1,9 +1,3 @@
-# Welcome to Telenor's take-home assignment
-**Congratulations on making it this far! Great job!**
-The purpose of this assignment is to give you an opportunity to demonstrate some code.
-The requirement is simple, but it is important to demonstrate clean code and good test coverage.
-Do the absolute minimum work required for the application. Out of the box configurations and in-memory DBs will do just fine.
-There is no time limit, but it shouldn't take more than 60-90min. 
 
 ---
 
